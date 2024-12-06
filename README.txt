@@ -46,7 +46,7 @@ notebook_project/
 ## Prerequisites
 
 Ensure you have the following installed:
-- Python 3.8+
+- Python 3.11
 - pip (Python package manager)
 - Django (4.0+)
 - Django REST Framework
@@ -57,8 +57,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/notebook-rest-api.git
-   cd notebook-rest-api
+   https://github.com/animeshrick/notebook_project.git
+   cd notebook_project
    ```
 
 2. Create a virtual environment and activate it:
@@ -181,5 +181,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Author
 
-- **Your Name**  
-  [GitHub Profile](https://github.com/your-username)
+- **Animesh Banerjee**  
+  [GitHub Profile](https://github.com/animeshrick/)
